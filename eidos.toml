@@ -1,0 +1,7 @@
+name = "budget-cap"
+version = "0.1.0"
+description = "Injection-safe budget-cap demo"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
